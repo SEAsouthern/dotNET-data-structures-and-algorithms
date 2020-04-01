@@ -29,6 +29,9 @@ Next navigate to the location you cloned the Repository.
 
 ##### WhiteBoard
 
+![CodeChallenge12Whiteboard](CodeChallenge12.jpg)
+
+
 ##### Using the Application
 
 ##### Application End
