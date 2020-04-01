@@ -1,7 +1,7 @@
-# ***Binary Search Console Application***
+# ***First-in, First out Animal Shelter.***
 ------------------------------
 
-# Binary Search
+# First-in, First out Animal Shelter.
 ##### *Author: Matthew Johnson*
 
 ------------------------------
