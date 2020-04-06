@@ -1,0 +1,46 @@
+# ***Trees.***
+------------------------------
+
+# Trees.
+##### *Author: Matthew Johnson*
+
+------------------------------
+
+## Description
+Console application that creates a method that takes in a value and creates a new node with the value and places in the correct spot in the tree.
+------------------------------
+
+## Getting Started
+Clone this repository to your local machine.
+```
+$ git clone [https://github.com/SEAsouthern/dotNET-data-structures-and-algorithms.git]
+```
+#### To run the program from Visual Studio:
+Select ```File``` -> ```Open``` -> ```Project/Solution```
+
+Next navigate to the location you cloned the Repository.
+
+------------------------------
+
+## Visuals
+
+
+
+##### WhiteBoard
+
+![CodeChallenge15Whiteboard](CC15WB.jpg)
+
+
+##### Using the Application
+
+##### Application End
+
+
+------------------------------
+## Approach & Efficiency
+
+
+### Big O
+
+## Change Log
+0.1 Added Whiteboard. 
