@@ -1,7 +1,7 @@
 # ***Code Challenge 17***
 ------------------------------
 
-# Fizz Buzz Trees.
+# Breadth-first Traversal.
 ##### *Authors: Jin Kim and Matthew Johnson*
 
 ------------------------------
